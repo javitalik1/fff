@@ -8,4 +8,9 @@
 	header('Location: '.$uri.'/xampp/');
 	exit;
 ?>
+<<<<<<< HEAD
 branch master
+=======
+Something is wrong with the XAMPP installation :-(|) :-(|) :-(|)
+new_branch
+>>>>>>> new_branch
