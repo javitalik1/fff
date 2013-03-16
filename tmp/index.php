@@ -8,8 +8,4 @@
 	header('Location: '.$uri.'/xampp/');
 	exit;
 ?>
-<<<<<<< HEAD
-Something is wrong with the XAMPP installation :-(|) :-(|) :-(|)
-=======
-Something is wrong with the XAMPP installation :-(
->>>>>>> 5d19ab8... refs #9962
+branch master
