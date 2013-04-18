@@ -9,4 +9,4 @@
 	exit;
 ?>
 Something is wrong with the XAMPP installation :-(|)
-branch master1 commit_5/5
+branch master1 commit_7
