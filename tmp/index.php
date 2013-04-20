@@ -9,8 +9,4 @@
 	exit;
 ?>
 Something is wrong with the XAMPP installation :-(|)
-<<<<<<< Updated upstream
-branch master1 commit_7
-=======
-branch master1 commit_5/5
->>>>>>> Stashed changes
+branch master1 commit_8
